@@ -1,0 +1,17 @@
+# macOS system file
+.DS_Store
+
+# Gradle files
+.gradle/
+build/
+
+# IntelliJ/Android Studio files
+.idea/
+local.properties
+
+# Gradle wrapper binaries
+gradlew
+gradlew.bat
+
+# Other generated files
+*.iml
